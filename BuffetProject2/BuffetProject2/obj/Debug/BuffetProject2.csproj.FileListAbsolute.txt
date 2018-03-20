@@ -1,0 +1,11 @@
+D:\a290\BuffetProject2\BuffetProject2\bin\Debug\BuffetProject2.exe.config
+D:\a290\BuffetProject2\BuffetProject2\bin\Debug\BuffetProject2.exe
+D:\a290\BuffetProject2\BuffetProject2\bin\Debug\BuffetProject2.pdb
+D:\a290\BuffetProject2\BuffetProject2\obj\Debug\BuffetProject2.frmBuffetMain.resources
+D:\a290\BuffetProject2\BuffetProject2\obj\Debug\BuffetProject2.Properties.Resources.resources
+D:\a290\BuffetProject2\BuffetProject2\obj\Debug\BuffetProject2.csproj.GenerateResource.Cache
+D:\a290\BuffetProject2\BuffetProject2\obj\Debug\BuffetProject2.exe
+D:\a290\BuffetProject2\BuffetProject2\obj\Debug\BuffetProject2.pdb
+D:\a290\BuffetProject2\BuffetProject2\obj\Debug\BuffetProject2.csprojResolveAssemblyReference.cache
+D:\a290\BuffetProject2\BuffetProject2\obj\Debug\BuffetProject2.frmBuffetOptions.resources
+D:\a290\BuffetProject2\BuffetProject2\obj\Debug\BuffetProject2.frmBuffetCollection.resources

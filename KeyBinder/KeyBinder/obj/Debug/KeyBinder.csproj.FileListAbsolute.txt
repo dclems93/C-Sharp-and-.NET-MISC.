@@ -1,0 +1,12 @@
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\bin\Debug\KeyBinder.exe.config
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\bin\Debug\KeyBinder.exe
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\bin\Debug\KeyBinder.pdb
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\obj\Debug\KeyBinder.csprojResolveAssemblyReference.cache
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\obj\Debug\KeyBinder.frmMain.resources
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\obj\Debug\KeyBinder.Properties.Resources.resources
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\obj\Debug\KeyBinder.csproj.GenerateResource.Cache
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\obj\Debug\KeyBinder.exe
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\obj\Debug\KeyBinder.pdb
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\obj\Debug\KeyBinder.frmKillingFloor.resources
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\bin\Debug\KillingFloorCommands.txt
+C:\Users\dclems\Desktop\Visual Studio Projects\KeyBinder\KeyBinder\obj\Debug\KeyBinder.frmKillingFloor2.resources

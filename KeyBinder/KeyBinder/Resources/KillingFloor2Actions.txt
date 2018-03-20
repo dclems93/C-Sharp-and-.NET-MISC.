@@ -1,0 +1,31 @@
+== Combat ==
+GBA_Fire
+GBA_SwitchFireMode
+GBA_IronsightsToggle
+GBA_Reload
+GBA_Grenade
+GBA_NextWeapon
+GBA_PrevWeapon
+GBA_SwitchWeapon1
+GBA_SwitchWeapon2
+GBA_SwitchWeapon3
+GBA_SwitchWeapon4
+GBA_DropWeapon
+== Basic Controls ==
+GBA_MoveForward
+GBA_Backward
+GBA_StrafeLeft
+GBA_StrafeRight
+GBA_Sprint
+GBA_Jump
+GBA_Use
+GBA_QuickHeal
+GBA_CrouchToggle
+GBA_ToggleFlashlight
+GBA_TossMoney
+== Various ==
+GBA_ShowMenu
+GBA_Talk
+GBA_TeamTalk
+GBA_ShowScores
+GBA_VoiceChat

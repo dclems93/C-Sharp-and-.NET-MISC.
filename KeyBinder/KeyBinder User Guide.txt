@@ -1,0 +1,47 @@
+Users Guide for KeyBinder
+
+KeyBinder is a utility that allows you to edit all of your favorite games 
+from within the same application without having to boot into the game.
+
+Currently supported games include: Killing Floor and Killing Floor 2
+
+To use KeyBinder:
+
+=>Initiate the application to the Main Menu
+ 	-In the main menu, you will see a list of all of the supported games, and large pictures
+ 	 to represent them.
+ 	-You will also see buttons beside the pictures of the supported games. Selecting these buttons 
+ 	 will open up the configuration window for the respective selected game.
+ 	-In the lower right hand corner you will see a Quit button. This will allow you to quit the 
+ 	 application elegantly.
+ 
+  	===>Select a game to configure
+		-Selecting killing floor will bring up the Killing Floor Configuration Window.
+		-It seems a bit empty... try selecting Open
+		-Now, navigate to your configuration file. (You will find a list of filenames that you 
+		 will need to select and where you might find them below.)
+		-Select the file and
+		...
+		-Wow! So many options! But notice the Open button is gone. You will have to reopen this window
+		 to see that again.
+		-Now that you have selected your User.ini file, you can edit your in game key bindings!
+		==!! NOTE: You are not permitted to apply the same key to two different in-game actions. !!==
+		-Once you have the bindings the way you like them, click Apply Bindings
+		-If you get a prompt that says the action was a success, you can select OK go play
+		 the game with your new settings!
+		-OR you can close this window by pressing the red X in the top right hand corner and 
+		 return to the Main Menu to select another game to configure!
+
+
+===Game Config files===
+
+Killing Floor:
+	Config File Title: User.ini
+	Possible Location:  C:// ProgramFiles/Steam/steamapps/common/KillingFloor/System/User.ini
+
+Killing Floor 2:
+	Config File Title: KFInput.ini
+	Possible Location: C:// Documents/My Games/KillingFloor2/KFGame/Config/KFInput.ini
+
+
+		

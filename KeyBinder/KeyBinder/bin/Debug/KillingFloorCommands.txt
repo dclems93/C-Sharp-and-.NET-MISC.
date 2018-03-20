@@ -1,0 +1,44 @@
+﻿==Combat==
+Fire
+AltFire
+ToggleAiming
+ReloadWeapon
+QuickHeal
+ThrowNade
+ThrowWeapon
+SwitchWeapon 1
+SwitchWeapon 2
+SwitchWeapon 3
+SwitchWeapon 4
+SwitchWeapon 5
+PrevWeapon
+NextWeapon
+==BasicControls==
+ShowScores
+Use
+TossCash
+MoveForward
+MoveBackward
+StrafeLeft
+StrafeRight
+ToggleDuck
+Jump
+ToggleFlashlight
+Walking
+LookDown
+==Communication==
+Speak Team
+Speak Public
+Speak Local
+Talk
+VoiceTalk
+TeamTalk
+SpeechMenuToggle
+==Various==
+ConsoleToggle
+ScoreToggle
+GrowHUD
+ShrinkHUD
+ShowMenu
+ShowVoteMenu
+ShowKickMenu
